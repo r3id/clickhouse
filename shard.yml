@@ -1,0 +1,16 @@
+name: clickhouse
+version: 0.6.2
+
+crystal: 1.0.0
+
+dependencies:
+  var:
+    github: r3id/var.cr
+  jq:
+    github: r3id/jq.cr
+
+authors:
+  - maiha <maiha@wota.jp>
+  - r3id <alan@r3id.dev>
+
+license: MIT
